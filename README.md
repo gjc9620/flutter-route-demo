@@ -1,7 +1,7 @@
 # flutter-route-demo
 
 # Screenshot
-<image src="./md-image/Screenshot.png">
+<image src="./md-image/Screenshot.png"  width="300" >
 
 # run
  - flutter build  web --web-renderer html --pwa-strategy none --release
@@ -11,7 +11,7 @@
 
 # Result on web 
 ### --web-renderer html
-<image src="./md-image/package-size.png" height="200" />
+<image src="./md-image/package-size.png"/>
 
 ### --web-renderer canvaskit
 <image src="./md-image/canvaskit.png">
