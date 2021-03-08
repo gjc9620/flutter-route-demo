@@ -11,7 +11,7 @@
 
 # Result on web 
 ### --web-renderer html
-<image src="./md-image/package-size.png">
+<image src="./md-image/package-size.png" height="200" />
 
 ### --web-renderer canvaskit
 <image src="./md-image/canvaskit.png">
